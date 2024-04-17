@@ -33,7 +33,7 @@ function App() {
         <button type='submit'>Submit</button>
       </form>
       <br/><br/>
-      {status && <img src="http://localhost:5000/images/input.jpg" width='400' height='400'/>}
+      {status && <img src="http://localhost:5000/images/output.jpg" width='500' height='500'/>}
     </div>
   )
 }
